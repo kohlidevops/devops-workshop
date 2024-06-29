@@ -10,7 +10,7 @@
    Scope: `Global`     
    ID: `maven_slave`    
    Username: `ec2-user`  
-   private key: `dpo.pem key content`  
+   private key: `devopstep1 key content`  
 
 ### Add node 
    Follow the below setups to add a new slave node to the jenkins 
